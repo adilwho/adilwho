@@ -1,4 +1,4 @@
-<h1 align="center">Adil</h1>
+<h1 align="center">Mohammad Adil Ahnaf</h1>
 
 <p align="center">
   Graphic Designer
@@ -26,14 +26,6 @@ Figma
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilwho&show_icons=true&hide_title=true" />
-</p>
-
----
-
 ## Contact
 
-For collaborations or inquiries, feel free to reach out through my portfolio.
+contact@adil.qzz.io
