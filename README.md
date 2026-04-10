@@ -1,56 +1,22 @@
-<h1 align="center">Mohammad Adil Ahnaf</h1>
-
 <p align="center">
-  Dhaka, Bangladesh
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=180&section=header&text=Adil&fontSize=40&fontColor=ffffff" />
 </p>
 
----
+I work across design, video editing, and digital experiments. I focus on clean visuals, structured work, and exploring creative tools.
 
-## About
+Connect with me:
 
-I work across design, video, and digital projects. My focus is on building clean, structured visuals and experimenting with different tools to create things that are both functional and visually strong.
-
-I like exploring new ideas, whether that’s design systems, editing workflows, or small experimental builds.
-
----
-
-## Work
-
-- Portfolio: https://be.net/adil_designs
+[![Behance Badge](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://be.net/adil_designs)
+[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@adil.qzz.io)
 
 ---
 
 ## Skills
-
-### Software
 - Adobe Photoshop  
 - Adobe Illustrator  
 - Figma  
 - Adobe Premiere Pro  
 - After Effects  
-
-### Areas
-- Visual design  
-- Layout and composition  
-- Video editing and motion  
-- Digital content creation  
-- UI and interface concepts  
-
-### Development & Exploration
-- Basic web development (HTML, CSS, JavaScript)  
-- Experimenting with interactive concepts  
-- Exploring unconventional ideas and tools  
-
----
-
-## Projects & Experiments
-
-- Creative design work and visual concepts  
-- Video edits and motion-based projects  
-- Small experimental builds and ideas  
-
----
-
-## Contact
-
-contact@adil.qzz.io
+- HTML  
+- CSS  
+- JavaScript  
