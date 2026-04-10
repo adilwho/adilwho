@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Adil</h1>
 
-<!--
-**adilwho/adilwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Graphic Designer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a graphic designer focused on clean, functional visuals and modern digital aesthetics. I enjoy turning ideas into structured, visually compelling work across branding, layout, and digital design.
+
+---
+
+## Work
+
+- Portfolio: https://be.net/adil_designs
+
+---
+
+## Tools
+
+Adobe Photoshop  
+Adobe Illustrator  
+Figma  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adilwho&show_icons=true&hide_title=true" />
+</p>
+
+---
+
+## Contact
+
+For collaborations or inquiries, feel free to reach out through my portfolio.
