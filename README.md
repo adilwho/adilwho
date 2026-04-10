@@ -1,14 +1,14 @@
 <h1 align="center">Mohammad Adil Ahnaf</h1>
 
 <p align="center">
-  Graphic Designer
+  Dhaka, Bangladesh
 </p>
 
 ---
 
 ## About
 
-I am a graphic designer focused on clean, functional visuals and modern digital aesthetics. I enjoy turning ideas into structured, visually compelling work across branding, layout, and digital design.
+I work with design and digital tools, focusing on layout, visual structure, and modern aesthetics. I’m interested in building work that is clean, functional, and visually consistent across platforms.
 
 ---
 
@@ -18,11 +18,19 @@ I am a graphic designer focused on clean, functional visuals and modern digital 
 
 ---
 
+## Focus
+
+- Visual design  
+- Layout and composition  
+- Digital and interface-oriented work  
+
+---
+
 ## Tools
 
-Adobe Photoshop  
-Adobe Illustrator  
-Figma  
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Figma  
 
 ---
 
