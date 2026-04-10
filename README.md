@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=180&section=header&text=Adil&fontSize=40&fontColor=ffffff" />
 </p>
 
-I work across design, video editing, and digital experiments. I focus on clean visuals, structured work, and exploring creative tools.
+I’m Adil. I work with design, video editing, and whatever random digital stuff I get interested in at the moment.
 
 Connect with me:
 
@@ -16,7 +16,8 @@ Connect with me:
 - Adobe Illustrator  
 - Figma  
 - Adobe Premiere Pro  
-- After Effects  
+- After Effects
+- Google AntiGravity
 - HTML  
 - CSS  
 - JavaScript  
