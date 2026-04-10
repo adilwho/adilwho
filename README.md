@@ -8,7 +8,9 @@
 
 ## About
 
-I work with design and digital tools, focusing on layout, visual structure, and modern aesthetics. I’m interested in building work that is clean, functional, and visually consistent across platforms.
+I work across design, video, and digital projects. My focus is on building clean, structured visuals and experimenting with different tools to create things that are both functional and visually strong.
+
+I like exploring new ideas, whether that’s design systems, editing workflows, or small experimental builds.
 
 ---
 
@@ -18,19 +20,34 @@ I work with design and digital tools, focusing on layout, visual structure, and 
 
 ---
 
-## Focus
+## Skills
 
-- Visual design  
-- Layout and composition  
-- Digital and interface-oriented work  
-
----
-
-## Tools
-
+### Software
 - Adobe Photoshop  
 - Adobe Illustrator  
 - Figma  
+- Adobe Premiere Pro  
+- After Effects  
+
+### Areas
+- Visual design  
+- Layout and composition  
+- Video editing and motion  
+- Digital content creation  
+- UI and interface concepts  
+
+### Development & Exploration
+- Basic web development (HTML, CSS, JavaScript)  
+- Experimenting with interactive concepts  
+- Exploring unconventional ideas and tools  
+
+---
+
+## Projects & Experiments
+
+- Creative design work and visual concepts  
+- Video edits and motion-based projects  
+- Small experimental builds and ideas  
 
 ---
 
