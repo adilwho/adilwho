@@ -1,5 +1,5 @@
 
-I’m Adil. I work with design, video editing, and whatever random digital stuff I get interested in at the moment :D
+I’m Adil. I work with design, video editing, and whatever random digital stuff I get interested in at the moment :3
 
 Connect with me:
 
