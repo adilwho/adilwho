@@ -14,7 +14,10 @@ Connect with me:
 - Figma  
 - Adobe Premiere Pro  
 - After Effects
+- Kdenlive
 - Google AntiGravity
+- Claude Code
+- Python
 - HTML  
 - CSS  
 - JavaScript  
