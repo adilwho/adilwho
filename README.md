@@ -1,8 +1,8 @@
+![](https://raw.githubusercontent.com/adilwho/adilwho/main/pb.png)
 
-I’m Adil. I work with design, video editing, and whatever random digital stuff I get interested in at the moment :3
+I'm Adil. I work with design, video editing, and whatever random digital stuff I get interested in at the moment :3
 
 Connect with me:
-
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://be.net/adil_designs)
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@adil.qzz.io)
 [![Discord Badge](https://img.shields.io/badge/-adilwho-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/974512844924145695)
@@ -21,4 +21,4 @@ Connect with me:
 - Python
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
